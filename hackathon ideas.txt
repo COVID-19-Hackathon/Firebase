@@ -1,0 +1,35 @@
+3. Map local places for severity
+4. Dunzo for covid(personal request and tag runs)
+
+
+Covid mapper
+Tech stack
+Google Maps API for layout
+Firebase to store co ordinates of registerd users
+Android
+
+Functionality
+User must have the app
+User registers his symptoms and permits use of his data
+Map his whereabouts on the Map, possibly use different colors for different levels of severity
+
+
+Dunzo.us
+Tech Stack
+Venmo api
+Google maps api
+Firebase or MongoDB
+
+
+Functionality
+User registers with location
+a) personal request, 
+Two ways: Put all the workers in a blackbox (or) display them with ratings
+
+b)Create errand, 
+A form with time, wait time and shop name to register an errand. Puts out a notification to all users. 
+Also, have options to filter out incoming notifications
+c)sublist with active errands
+A list with active but not completed errands whose wait times > current time. Provide filters here too
+
+Users negotiate commissions
